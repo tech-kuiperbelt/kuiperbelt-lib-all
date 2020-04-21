@@ -1,0 +1,15 @@
+logging:
+  level:
+    org:
+      springframework:
+        transaction: trace
+        jdbc:
+          core:
+            JdbcTemplate: debug
+
+    org.hibernate:
+      SQL: debug
+      type.descriptor.sql.BasicBinder: TRACE
+
+    tech.kuiperbelt.*: debug
+

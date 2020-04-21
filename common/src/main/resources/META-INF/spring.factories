@@ -1,0 +1,5 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#tech.kuiperbelt.lib.common.jpa.KuiperbeltJapAutoConfig,\
+#tech.kuiperbelt.lib.common.jpa.audit.KuiperbeltAuditAutoConfiguration,\
+#tech.kuiperbelt.lib.common.datarest.KuiperbeltDataRestAutoConfig,\
+#tech.kuiperbelt.lib.common.web.KuiperbeltWebAutoConfig
