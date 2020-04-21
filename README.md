@@ -1,4 +1,4 @@
-# kuiperbelt-lib-all
+# Kuiperbelt lib, all in one
 
 ## Category
 
